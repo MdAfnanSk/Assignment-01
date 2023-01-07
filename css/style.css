@@ -193,7 +193,7 @@
 }
 .team_content{
     display: flex;
-    gap: 20px;
+    gap: 15px;
 }
 .team_text h3{
     color: #444343;
