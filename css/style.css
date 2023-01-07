@@ -180,10 +180,11 @@
 
 /* callnow part end */
 /* our team part start */
-/* #our_team{
+#our_team {
     padding-bottom: 130px;
 }
-.team_head h3{
+
+.team_head h3 {
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
@@ -191,22 +192,24 @@
     text-align: center;
     padding-bottom: 55px;
 }
-.team_content{
+
+.team_content {
     display: flex;
     gap: 15px;
 }
-.team_text h3{
+
+.team_text h3 {
     color: #444343;
     font-weight: 700;
     font-size: 25px;
     padding-top: 25px;
 }
 
-.team_text p{
+.team_text p {
     color: #F15B22;
     font-weight: 400;
     font-size: 17px;
-} */
+}
 
 
 /* our team part end */
